@@ -150,7 +150,16 @@ Son implantation et donnée : https://github.com/charroux/testsLogiciel/blob/mai
 
 Votre tâche consiste à écrire la classe de test en utilisant le framework Mockito : https://github.com/charroux/testsLogiciel/blob/main/src/test/java/com/example/demo/service/StatistiqueTests.java
 
-# TP 3
+# TD 2 - MockMvc
+
+MockVvc est un framework de test qui permet de tester un application Web programmé en Java version Spring. 
+Essentiellement, ce framework envoi des requêtes HTTP à un programe Web Java et vérifier que les réponses sont celles attendues.
+
+Comment faire des requêtes : https://docs.spring.io/spring-framework/reference/6.0/testing/spring-mvc-test-framework/server-performing-requests.html
+
+Comment vérifier les résultats des requêtes : https://docs.spring.io/spring-framework/reference/6.0/testing/spring-mvc-test-framework/server-defining-expectations.html
+
+# TP 3 - MockMvc
 
 ## Le service Web
 
